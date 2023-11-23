@@ -54,3 +54,4 @@
 | wrapper | پوششی، دربرگیرنده |
 | application | اپلیکیشن |
 | teleport | تله‌پورت |
+| typing | نوع گذاری |
